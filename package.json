@@ -1,0 +1,13 @@
+{
+  "name": "json-formatter-tools",
+  "version": "1.0.0",
+  "description": "Utilities for processing videoList.json",
+  "type": "module",
+  "main": "convertMp4ToGif.js",
+  "scripts": {
+    "convert": "node convertMp4ToGif.js"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
