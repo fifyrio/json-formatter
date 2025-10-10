@@ -1,0 +1,46 @@
+{
+    "home": [
+        {
+            "id": "veo3-image",
+            "prompt": "Futuristic interface animation where luminous data streams weave together to reveal the VEO3 logo, rendered with neon volumetric lighting and floating holographic panels.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/feature1_veo3image.gif",
+            "title": "veo3 image"
+        },
+        {
+            "id": "bodyshake",
+            "prompt": "High-energy dance loop of a performer executing sharp hip-hop moves under vibrant club strobes, with handheld camera swings and rhythmic motion blur accenting each beat.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/feature2bodyshake.gif",
+            "title": "bodyshake"
+        },
+        {
+            "id": "muscle",
+            "prompt": "Slow-motion cinematic shot of an athlete flexing and powering through a workout, highlighting muscle definition with dramatic rim lighting and drifting chalk particles.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/feature3_muscle.gif",
+            "title": "muscle"
+        },
+        {
+            "id": "mermaid-main",
+            "prompt": "Mythic underwater scene following a mermaid gliding through coral reefs, bioluminescent fins shimmering as sunlight shafts cascade from the ocean surface.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/mermaidmain.gif",
+            "title": "mermaid main"
+        },
+        {
+            "id": "oldphoto-main",
+            "prompt": "Animated collage of vintage photographs softly sliding into frame, sepia tones blooming with light leaks and dust particles for an aged film nostalgia vibe.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/oldphotomain.gif",
+            "title": "oldphoto main"
+        },
+        {
+            "id": "earthzoom",
+            "prompt": "Seamless earth zoom starting from orbit down to a lush rainforest canopy, clouds peeling away as the camera dives through atmosphere into rich macro landscape detail.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/trending4_earthzoom.gif",
+            "title": "earthzoom"
+        },
+        {
+            "id": "veo3-main",
+            "prompt": "Kinetic motion graphic assembling the VEO3 emblem from exploding geometric shards, pulsing to electronic beats with glossy reflections and depth-of-field flares.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/veo3main.gif",
+            "title": "veo3 main"
+        }
+    ]
+}
