@@ -1,28 +1,10 @@
 {
     "explore": [
         {
-            "id": "explore_1",
-            "prompt": "A striking visual captures a person standing confidently next to a vintage car, dressed in a well-fitted light pink suit complemented by a matching tie and a crisp white shirt. The individual's posture is upright, hands casually tucked in pockets, exuding an air of sophistication.",
-            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/1.mp4",
-            "title": "Dapper Pink Suit Beside Vintage Car"
-        },
-        {
-            "id": "explore_2",
-            "prompt": "90s photo of a model , wearing a white t and red text that says 'I LOVE LOOP'. In the foreground, a nightclub crowd. Kodak Gold 400 film, soft lighting. Posted on Snapchat. Polaroid photography in the style of Tarkovsky.",
-            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/2.mp4",
-            "title": "I LOVE LOOP 90s Club Snapshot"
-        },
-        {
             "id": "explore_3",
             "prompt": "A humorous scene of a contemplative monkey sitting in an armchair, playing a guitar in a cozy, dimly lit living room. The atmosphere is warm, featuring soft ambient lighting, a vintage vibe, and a touch of whimsy.",
             "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/3.mp4",
             "title": "Guitar-Playing Monkey in Cozy Parlor"
-        },
-        {
-            "id": "explore_4",
-            "prompt": "An astronaut in a white spacesuit stands alone in a vast, reddish desert. The video pans around to capture the stark landscape under a bright, cloudless sky, evoking feelings of isolation and exploration of an alien terrain.",
-            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/4.mp4",
-            "title": "Lone Astronaut on Red Desert World"
         },
         {
             "id": "explore_5",
@@ -31,10 +13,16 @@
             "title": "Noir Muse Poised at Shadowed Desk"
         },
         {
-            "id": "explore_6",
-            "prompt": "Futuristic woman wearing glowing neon visor, reflecting city lights, exuding a sleek and cyberpunk vibe.",
-            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/6.mp4",
-            "title": "Cyberpunk Neon Visor Portrait"
+            "id": "explore_8",
+            "prompt": "3D animated character, a young boy with large, expressive eyes and a cheerful expression, is running along with a dog on a lively street scene.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/8.mp4",
+            "title": "Boy and Dog Racing Down Vibrant Street"
+        },
+        {
+            "id": "explore_1",
+            "prompt": "A striking visual captures a person standing confidently next to a vintage car, dressed in a well-fitted light pink suit complemented by a matching tie and a crisp white shirt. The individual's posture is upright, hands casually tucked in pockets, exuding an air of sophistication.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/1.mp4",
+            "title": "Dapper Pink Suit Beside Vintage Car"
         },
         {
             "id": "explore_7",
@@ -43,24 +31,30 @@
             "title": "Android Trekking Through Misty Forest"
         },
         {
-            "id": "explore_8",
-            "prompt": "3D animated character, a young boy with large, expressive eyes and a cheerful expression, is running along with a dog on a lively street scene.",
-            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/8.mp4",
-            "title": "Boy and Dog Racing Down Vibrant Street"
+            "id": "explore_6",
+            "prompt": "Futuristic woman wearing glowing neon visor, reflecting city lights, exuding a sleek and cyberpunk vibe.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/6.mp4",
+            "title": "Cyberpunk Neon Visor Portrait"
+        },
+        {
+            "id": "explore_4",
+            "prompt": "An astronaut in a white spacesuit stands alone in a vast, reddish desert. The video pans around to capture the stark landscape under a bright, cloudless sky, evoking feelings of isolation and exploration of an alien terrain.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/4.mp4",
+            "title": "Lone Astronaut on Red Desert World"
+        },
+        {
+            "id": "explore_2",
+            "prompt": "90s photo of a model , wearing a white t and red text that says 'I LOVE LOOP'. In the foreground, a nightclub crowd. Kodak Gold 400 film, soft lighting. Posted on Snapchat. Polaroid photography in the style of Tarkovsky.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/2.mp4",
+            "title": "I LOVE LOOP 90s Club Snapshot"
         }
     ],
     "motion-style": [
         {
-            "id": "motion-style_1",
-            "prompt": "Create a high-octane video that conveys extreme speed with rapid camera moves, streaking lights, and a subject rushing past the viewer.",
-            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/fast.gif",
-            "title": "Fast"
-        },
-        {
-            "id": "motion-style_2",
-            "prompt": "Produce an energetic motion sequence packed with bold transitions, rhythmic camera swings, and vibrant lighting that feels alive.",
-            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/dynamic.gif",
-            "title": "Dynamic"
+            "id": "motion-style_4",
+            "prompt": "Generate a dramatic timelapse scene showing time racing forward as clouds streak, shadows pivot, and city lights ignite.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/timelapse.gif",
+            "title": "Timelapse"
         },
         {
             "id": "motion-style_3",
@@ -69,42 +63,30 @@
             "title": "Slow"
         },
         {
-            "id": "motion-style_4",
-            "prompt": "Generate a dramatic timelapse scene showing time racing forward as clouds streak, shadows pivot, and city lights ignite.",
-            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/timelapse.gif",
-            "title": "Timelapse"
+            "id": "motion-style_2",
+            "prompt": "Produce an energetic motion sequence packed with bold transitions, rhythmic camera swings, and vibrant lighting that feels alive.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/dynamic.gif",
+            "title": "Dynamic"
+        },
+        {
+            "id": "motion-style_1",
+            "prompt": "Create a high-octane video that conveys extreme speed with rapid camera moves, streaking lights, and a subject rushing past the viewer.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/fast.gif",
+            "title": "Fast"
         }
     ],
     "Trending": [
         {
-            "id": "whos_arrested",
-            "prompt": "Stage a tense crime drama moment where flashing police lights illuminate a suspect being apprehended as the camera circles the scene.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_arrest_250610.gif",
-            "title": "Who's Arrested?"
+            "id": "beam_me_up",
+            "prompt": "Produce a sci-fi abduction moment where a beam of light lifts a person upward into a hovering spacecraft at night.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blue_250725.gif",
+            "title": "Beam Me Up"
         },
         {
-            "id": "old_photo_retrieval",
-            "prompt": "Craft an emotional vignette of a person restoring a treasured vintage photograph, with close-ups of aged textures and soft nostalgic lighting.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_old_250630.gif",
-            "title": "Old Photo Retrieval"
-        },
-        {
-            "id": "become_a_mermaid",
-            "prompt": "Imagine a fantasy underwater transformation where a person becomes a shimmering mermaid swimming through sunlit ocean currents.",
-            "video": "https://b17gy9ouiugrnmfh.public.blob.vercel-storage.com/mermaid.gif",
-            "title": "Become a Mermaid"
-        },
-        {
-            "id": "muscle_magic",
-            "prompt": "Showcase a powerful athlete unleashing explosive strength in a neon-lit gym, muscles flexing with dramatic lighting and particles.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_musclesurge.gif",
-            "title": "Muscle Magic"
-        },
-        {
-            "id": "earth_zoom_challenge",
-            "prompt": "Animate an epic earth-to-space zoom that starts on a bustling city street and rockets outward to reveal the entire planet.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_earthzoom_250716.gif",
-            "title": "Earth Zoom Challenge"
+            "id": "sheep_curls",
+            "prompt": "Design a cozy salon scene where fluffy curls are styled into playful sheep-inspired shapes with soft lighting.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_curlyhair.gif",
+            "title": "Sheep Curls"
         },
         {
             "id": "transition",
@@ -113,94 +95,16 @@
             "title": "Transition"
         },
         {
-            "id": "vroom_vroom",
-            "prompt": "Film a cinematic street-racing scene with a sleek sports car drifting through neon city streets and engines roaring.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_dance_250316.gif",
-            "title": "Vroom Vroom"
-        },
-        {
-            "id": "emergency_beat",
-            "prompt": "Create an electrifying dance sequence set to siren-like beats, with performers moving under flashing red and blue lights.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_emergency_250409.gif",
-            "title": "Emergency Beat"
-        },
-        {
-            "id": "mega_dive",
-            "prompt": "Capture a daring cliff diver leaping from a towering rock into turquoise waters in slow motion, spray sparkling in the sun.",
-            "video": "https://b17gy9ouiugrnmfh.public.blob.vercel-storage.com/dive.gif",
-            "title": "Mega Dive"
-        },
-        {
-            "id": "suit_swagger",
-            "prompt": "Portray a confident individual striding through a city plaza in a sharp suit, wind catching the fabric as the camera tracks their swagger.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_suit_250324.gif",
-            "title": "Suit Swagger"
-        },
-        {
-            "id": "jiggle_jiggle",
-            "prompt": "Animate a playful dance loop where the performer emphasizes bouncy, rhythmic moves to a catchy beat with vibrant lighting.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jiggle_250422.gif",
-            "title": "Jiggle Jiggle"
-        },
-        {
             "id": "sakura_season",
             "prompt": "Depict a serene springtime stroll beneath blooming cherry blossoms, petals drifting in the air as sunlight filters through.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sakura_250305.gif",
             "title": "Sakura Season"
         },
         {
-            "id": "vogue_walk",
-            "prompt": "Shoot a high-fashion runway walk with fierce poses, dramatic backlighting, and a glossy editorial aesthetic.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_model_250312.gif",
-            "title": "Vogue Walk"
-        },
-        {
-            "id": "ride_my_porsche",
-            "prompt": "Feature a luxury Porsche cruising along a coastal highway at golden hour, reflections gleaming on its polished curves.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_car_250706.gif",
-            "title": "Ride My Porsche"
-        },
-        {
-            "id": "fire_roar",
-            "prompt": "Visualize an elemental warrior summoning roaring flames around them, embers swirling in a dark, smoky environment.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250312.gif",
-            "title": "Fire Roar"
-        },
-        {
-            "id": "thunder_god",
-            "prompt": "Create a mythic storm deity commanding lightning bolts atop a mountain peak, clouds churning with electric energy.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_thunder_250527.gif",
-            "title": "Thunder God"
-        },
-        {
-            "id": "i_believe_i_can_fly",
-            "prompt": "Portray a dreamlike moment of weightless flight above the clouds, with the hero soaring through pastel skies.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fly_250725.gif",
-            "title": "I Believe I Can Fly"
-        },
-        {
-            "id": "somber_embrace",
-            "prompt": "Capture two figures sharing a quiet, emotional embrace in moody lighting, rain streaking down a window nearby.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blackwings_0609.gif",
-            "title": "Somber Embrace"
-        },
-        {
-            "id": "eye_zoom_challenge",
-            "prompt": "Animate an intense macro zoom traveling from a person's pupil outward to reveal an expansive sci-fi landscape.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_eye_250524.gif",
-            "title": "Eye Zoom Challenge"
-        },
-        {
-            "id": "punch_face",
-            "prompt": "Show a dramatic boxing punch landing in slow motion, sweat and impact ripples frozen in midair.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250515.gif",
-            "title": "Punch Face"
-        },
-        {
-            "id": "liquid_metal",
-            "prompt": "Render a futuristic character morphing from liquid metal into a solid form with reflective chrome surfaces.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_metal_250606.gif",
-            "title": "Liquid Metal"
+            "id": "vroom_vroom",
+            "prompt": "Film a cinematic street-racing scene with a sleek sports car drifting through neon city streets and engines roaring.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_dance_250316.gif",
+            "title": "Vroom Vroom"
         },
         {
             "id": "smoking_vibe",
@@ -209,16 +113,10 @@
             "title": "Smoking Vibe"
         },
         {
-            "id": "jellycat_everything",
-            "prompt": "Animate a whimsical world filled with plush jellycat creatures bouncing and hugging in pastel-colored rooms.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jellytoy_250228.gif",
-            "title": "Jellycat Everything"
-        },
-        {
-            "id": "retro_anime",
-            "prompt": "Create a nostalgic 80s anime-inspired action sequence with bold cel shading, speed lines, and neon gradients.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anime_250415.gif",
-            "title": "Retro Anime"
+            "id": "mega_dive",
+            "prompt": "Capture a daring cliff diver leaping from a towering rock into turquoise waters in slow motion, spray sparkling in the sun.",
+            "video": "https://b17gy9ouiugrnmfh.public.blob.vercel-storage.com/dive.gif",
+            "title": "Mega Dive"
         },
         {
             "id": "evil_trigger",
@@ -227,16 +125,28 @@
             "title": "Evil Trigger"
         },
         {
-            "id": "sheep_curls",
-            "prompt": "Design a cozy salon scene where fluffy curls are styled into playful sheep-inspired shapes with soft lighting.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_curlyhair.gif",
-            "title": "Sheep Curls"
+            "id": "earth_zoom_challenge",
+            "prompt": "Animate an epic earth-to-space zoom that starts on a bustling city street and rockets outward to reveal the entire planet.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_earthzoom_250716.gif",
+            "title": "Earth Zoom Challenge"
         },
         {
-            "id": "fairy_wings",
-            "prompt": "Show a magical transformation where translucent fairy wings unfurl as glittering particles fill a moonlit forest.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sprite_250605.gif",
-            "title": "Fairy Wings"
+            "id": "earth_zoom_challenge",
+            "prompt": "Animate an epic earth-to-space zoom that starts on a bustling city street and rockets outward to reveal the entire planet.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_earthzoom_250716.gif",
+            "title": "Earth Zoom Challenge"
+        },
+        {
+            "id": "punch_face",
+            "prompt": "Show a dramatic boxing punch landing in slow motion, sweat and impact ripples frozen in midair.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250515.gif",
+            "title": "Punch Face"
+        },
+        {
+            "id": "suit_swagger",
+            "prompt": "Portray a confident individual striding through a city plaza in a sharp suit, wind catching the fabric as the camera tracks their swagger.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_suit_250324.gif",
+            "title": "Suit Swagger"
         },
         {
             "id": "beam_me_up",
@@ -245,10 +155,10 @@
             "title": "Beam Me Up"
         },
         {
-            "id": "pomba_gira_slay",
-            "prompt": "Celebrate an empowered dancer channeling Pomba Gira energy, swirling in red and black fabrics with ritualistic firelight.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pombagira_250213.gif",
-            "title": "Pomba Gira Slay"
+            "id": "jellycat_everything",
+            "prompt": "Animate a whimsical world filled with plush jellycat creatures bouncing and hugging in pastel-colored rooms.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jellytoy_250228.gif",
+            "title": "Jellycat Everything"
         },
         {
             "id": "whos_arrested",
@@ -257,58 +167,22 @@
             "title": "Who's Arrested?"
         },
         {
-            "id": "old_photo_retrieval",
-            "prompt": "Craft an emotional vignette of a person restoring a treasured vintage photograph, with close-ups of aged textures and soft nostalgic lighting.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_old_250630.gif",
-            "title": "Old Photo Retrieval"
+            "id": "eye_zoom_challenge",
+            "prompt": "Animate an intense macro zoom traveling from a person's pupil outward to reveal an expansive sci-fi landscape.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_eye_250524.gif",
+            "title": "Eye Zoom Challenge"
         },
         {
-            "id": "become_a_mermaid",
-            "prompt": "Imagine a fantasy underwater transformation where a person becomes a shimmering mermaid swimming through sunlit ocean currents.",
-            "video": "https://b17gy9ouiugrnmfh.public.blob.vercel-storage.com/mermaid.gif",
-            "title": "Become a Mermaid"
+            "id": "punch_face",
+            "prompt": "Show a dramatic boxing punch landing in slow motion, sweat and impact ripples frozen in midair.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250515.gif",
+            "title": "Punch Face"
         },
         {
-            "id": "muscle_magic",
-            "prompt": "Showcase a powerful athlete unleashing explosive strength in a neon-lit gym, muscles flexing with dramatic lighting and particles.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_musclesurge.gif",
-            "title": "Muscle Magic"
-        },
-        {
-            "id": "earth_zoom_challenge",
-            "prompt": "Animate an epic earth-to-space zoom that starts on a bustling city street and rockets outward to reveal the entire planet.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_earthzoom_250716.gif",
-            "title": "Earth Zoom Challenge"
-        },
-        {
-            "id": "transition",
-            "prompt": "Design a stylish montage of seamless transitions where a subject moves through multiple outfits and locations without cutting.",
-            "video": "https://storage.googleapis.com/magicpoint/thumbs/pixverse-transition-thumb.gif",
-            "title": "Transition"
-        },
-        {
-            "id": "bikini_up",
-            "prompt": "Capture a sunny beach montage of friends showcasing stylish swimwear, waves crashing and camera sweeping around them.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_bikini_250218.gif",
-            "title": "Bikini Up"
-        },
-        {
-            "id": "vroom_vroom",
-            "prompt": "Film a cinematic street-racing scene with a sleek sports car drifting through neon city streets and engines roaring.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_dance_250316.gif",
-            "title": "Vroom Vroom"
-        },
-        {
-            "id": "emergency_beat",
-            "prompt": "Create an electrifying dance sequence set to siren-like beats, with performers moving under flashing red and blue lights.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_emergency_250409.gif",
-            "title": "Emergency Beat"
-        },
-        {
-            "id": "mega_dive",
-            "prompt": "Capture a daring cliff diver leaping from a towering rock into turquoise waters in slow motion, spray sparkling in the sun.",
-            "video": "https://b17gy9ouiugrnmfh.public.blob.vercel-storage.com/dive.gif",
-            "title": "Mega Dive"
+            "id": "retro_anime",
+            "prompt": "Create a nostalgic 80s anime-inspired action sequence with bold cel shading, speed lines, and neon gradients.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anime_250415.gif",
+            "title": "Retro Anime"
         },
         {
             "id": "suit_swagger",
@@ -317,46 +191,22 @@
             "title": "Suit Swagger"
         },
         {
-            "id": "jiggle_jiggle",
-            "prompt": "Animate a playful dance loop where the performer emphasizes bouncy, rhythmic moves to a catchy beat with vibrant lighting.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jiggle_250422.gif",
-            "title": "Jiggle Jiggle"
+            "id": "transition",
+            "prompt": "Design a stylish montage of seamless transitions where a subject moves through multiple outfits and locations without cutting.",
+            "video": "https://storage.googleapis.com/magicpoint/thumbs/pixverse-transition-thumb.gif",
+            "title": "Transition"
         },
         {
-            "id": "sakura_season",
-            "prompt": "Depict a serene springtime stroll beneath blooming cherry blossoms, petals drifting in the air as sunlight filters through.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sakura_250305.gif",
-            "title": "Sakura Season"
+            "id": "old_photo_retrieval",
+            "prompt": "Craft an emotional vignette of a person restoring a treasured vintage photograph, with close-ups of aged textures and soft nostalgic lighting.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_old_250630.gif",
+            "title": "Old Photo Retrieval"
         },
         {
             "id": "vogue_walk",
             "prompt": "Shoot a high-fashion runway walk with fierce poses, dramatic backlighting, and a glossy editorial aesthetic.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_model_250312.gif",
             "title": "Vogue Walk"
-        },
-        {
-            "id": "ride_my_porsche",
-            "prompt": "Feature a luxury Porsche cruising along a coastal highway at golden hour, reflections gleaming on its polished curves.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_car_250706.gif",
-            "title": "Ride My Porsche"
-        },
-        {
-            "id": "fire_roar",
-            "prompt": "Visualize an elemental warrior summoning roaring flames around them, embers swirling in a dark, smoky environment.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250312.gif",
-            "title": "Fire Roar"
-        },
-        {
-            "id": "thunder_god",
-            "prompt": "Create a mythic storm deity commanding lightning bolts atop a mountain peak, clouds churning with electric energy.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_thunder_250527.gif",
-            "title": "Thunder God"
-        },
-        {
-            "id": "i_believe_i_can_fly",
-            "prompt": "Portray a dreamlike moment of weightless flight above the clouds, with the hero soaring through pastel skies.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fly_250725.gif",
-            "title": "I Believe I Can Fly"
         },
         {
             "id": "somber_embrace",
@@ -365,58 +215,10 @@
             "title": "Somber Embrace"
         },
         {
-            "id": "eye_zoom_challenge",
-            "prompt": "Animate an intense macro zoom traveling from a person's pupil outward to reveal an expansive sci-fi landscape.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_eye_250524.gif",
-            "title": "Eye Zoom Challenge"
-        },
-        {
-            "id": "punch_face",
-            "prompt": "Show a dramatic boxing punch landing in slow motion, sweat and impact ripples frozen in midair.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250515.gif",
-            "title": "Punch Face"
-        },
-        {
-            "id": "kiss_me_ai",
-            "prompt": "Imagine a futuristic romance where a human and holographic AI lean in for a kiss amid glowing circuitry and soft neon light.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ailover_250212.gif",
-            "title": "Kiss Me, AI!"
-        },
-        {
-            "id": "liquid_metal",
-            "prompt": "Render a futuristic character morphing from liquid metal into a solid form with reflective chrome surfaces.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_metal_250606.gif",
-            "title": "Liquid Metal"
-        },
-        {
-            "id": "smoking_vibe",
-            "prompt": "Film a stylish portrait of a character exhaling smoke in cinematic lighting, wisps curling dramatically around their face.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fwebsmoke250113.gif",
-            "title": "Smoking Vibe"
-        },
-        {
-            "id": "jellycat_everything",
-            "prompt": "Animate a whimsical world filled with plush jellycat creatures bouncing and hugging in pastel-colored rooms.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jellytoy_250228.gif",
-            "title": "Jellycat Everything"
-        },
-        {
-            "id": "retro_anime",
-            "prompt": "Create a nostalgic 80s anime-inspired action sequence with bold cel shading, speed lines, and neon gradients.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anime_250415.gif",
-            "title": "Retro Anime"
-        },
-        {
-            "id": "evil_trigger",
-            "prompt": "Portray a dark antihero unleashing fiery powers, eyes glowing as flames ignite around them in a dystopian alley.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250328.gif",
-            "title": "Evil Trigger"
-        },
-        {
-            "id": "sheep_curls",
-            "prompt": "Design a cozy salon scene where fluffy curls are styled into playful sheep-inspired shapes with soft lighting.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_curlyhair.gif",
-            "title": "Sheep Curls"
+            "id": "vroom_vroom",
+            "prompt": "Film a cinematic street-racing scene with a sleek sports car drifting through neon city streets and engines roaring.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_dance_250316.gif",
+            "title": "Vroom Vroom"
         },
         {
             "id": "fairy_wings",
@@ -425,58 +227,16 @@
             "title": "Fairy Wings"
         },
         {
-            "id": "beam_me_up",
-            "prompt": "Produce a sci-fi abduction moment where a beam of light lifts a person upward into a hovering spacecraft at night.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blue_250725.gif",
-            "title": "Beam Me Up"
-        },
-        {
-            "id": "pomba_gira_slay",
-            "prompt": "Celebrate an empowered dancer channeling Pomba Gira energy, swirling in red and black fabrics with ritualistic firelight.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pombagira_250213.gif",
-            "title": "Pomba Gira Slay"
-        },
-        {
-            "id": "old_photo_retrieval",
-            "prompt": "Craft an emotional vignette of a person restoring a treasured vintage photograph, with close-ups of aged textures and soft nostalgic lighting.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_old_250630.gif",
-            "title": "Old Photo Retrieval"
-        },
-        {
-            "id": "become_a_mermaid",
-            "prompt": "Imagine a fantasy underwater transformation where a person becomes a shimmering mermaid swimming through sunlit ocean currents.",
-            "video": "https://b17gy9ouiugrnmfh.public.blob.vercel-storage.com/mermaid.gif",
-            "title": "Become a Mermaid"
+            "id": "sheep_curls",
+            "prompt": "Design a cozy salon scene where fluffy curls are styled into playful sheep-inspired shapes with soft lighting.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_curlyhair.gif",
+            "title": "Sheep Curls"
         },
         {
             "id": "muscle_magic",
             "prompt": "Showcase a powerful athlete unleashing explosive strength in a neon-lit gym, muscles flexing with dramatic lighting and particles.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_musclesurge.gif",
             "title": "Muscle Magic"
-        },
-        {
-            "id": "earth_zoom_challenge",
-            "prompt": "Animate an epic earth-to-space zoom that starts on a bustling city street and rockets outward to reveal the entire planet.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_earthzoom_250716.gif",
-            "title": "Earth Zoom Challenge"
-        },
-        {
-            "id": "transition",
-            "prompt": "Design a stylish montage of seamless transitions where a subject moves through multiple outfits and locations without cutting.",
-            "video": "https://storage.googleapis.com/magicpoint/thumbs/pixverse-transition-thumb.gif",
-            "title": "Transition"
-        },
-        {
-            "id": "bikini_up",
-            "prompt": "Capture a sunny beach montage of friends showcasing stylish swimwear, waves crashing and camera sweeping around them.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_bikini_250218.gif",
-            "title": "Bikini Up"
-        },
-        {
-            "id": "vroom_vroom",
-            "prompt": "Film a cinematic street-racing scene with a sleek sports car drifting through neon city streets and engines roaring.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_dance_250316.gif",
-            "title": "Vroom Vroom"
         },
         {
             "id": "emergency_beat",
@@ -491,16 +251,88 @@
             "title": "Mega Dive"
         },
         {
-            "id": "suit_swagger",
-            "prompt": "Portray a confident individual striding through a city plaza in a sharp suit, wind catching the fabric as the camera tracks their swagger.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_suit_250324.gif",
-            "title": "Suit Swagger"
+            "id": "smoking_vibe",
+            "prompt": "Film a stylish portrait of a character exhaling smoke in cinematic lighting, wisps curling dramatically around their face.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fwebsmoke250113.gif",
+            "title": "Smoking Vibe"
         },
         {
-            "id": "jiggle_jiggle",
-            "prompt": "Animate a playful dance loop where the performer emphasizes bouncy, rhythmic moves to a catchy beat with vibrant lighting.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jiggle_250422.gif",
-            "title": "Jiggle Jiggle"
+            "id": "evil_trigger",
+            "prompt": "Portray a dark antihero unleashing fiery powers, eyes glowing as flames ignite around them in a dystopian alley.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250328.gif",
+            "title": "Evil Trigger"
+        },
+        {
+            "id": "retro_anime",
+            "prompt": "Create a nostalgic 80s anime-inspired action sequence with bold cel shading, speed lines, and neon gradients.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anime_250415.gif",
+            "title": "Retro Anime"
+        },
+        {
+            "id": "transition",
+            "prompt": "Design a stylish montage of seamless transitions where a subject moves through multiple outfits and locations without cutting.",
+            "video": "https://storage.googleapis.com/magicpoint/thumbs/pixverse-transition-thumb.gif",
+            "title": "Transition"
+        },
+        {
+            "id": "ride_my_porsche",
+            "prompt": "Feature a luxury Porsche cruising along a coastal highway at golden hour, reflections gleaming on its polished curves.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_car_250706.gif",
+            "title": "Ride My Porsche"
+        },
+        {
+            "id": "retro_anime",
+            "prompt": "Create a nostalgic 80s anime-inspired action sequence with bold cel shading, speed lines, and neon gradients.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anime_250415.gif",
+            "title": "Retro Anime"
+        },
+        {
+            "id": "fairy_wings",
+            "prompt": "Show a magical transformation where translucent fairy wings unfurl as glittering particles fill a moonlit forest.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sprite_250605.gif",
+            "title": "Fairy Wings"
+        },
+        {
+            "id": "sheep_curls",
+            "prompt": "Design a cozy salon scene where fluffy curls are styled into playful sheep-inspired shapes with soft lighting.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_curlyhair.gif",
+            "title": "Sheep Curls"
+        },
+        {
+            "id": "fire_roar",
+            "prompt": "Visualize an elemental warrior summoning roaring flames around them, embers swirling in a dark, smoky environment.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250312.gif",
+            "title": "Fire Roar"
+        },
+        {
+            "id": "bikini_up",
+            "prompt": "Capture a sunny beach montage of friends showcasing stylish swimwear, waves crashing and camera sweeping around them.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_bikini_250218.gif",
+            "title": "Bikini Up"
+        },
+        {
+            "id": "pomba_gira_slay",
+            "prompt": "Celebrate an empowered dancer channeling Pomba Gira energy, swirling in red and black fabrics with ritualistic firelight.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pombagira_250213.gif",
+            "title": "Pomba Gira Slay"
+        },
+        {
+            "id": "ride_my_porsche",
+            "prompt": "Feature a luxury Porsche cruising along a coastal highway at golden hour, reflections gleaming on its polished curves.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_car_250706.gif",
+            "title": "Ride My Porsche"
+        },
+        {
+            "id": "muscle_magic",
+            "prompt": "Showcase a powerful athlete unleashing explosive strength in a neon-lit gym, muscles flexing with dramatic lighting and particles.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_musclesurge.gif",
+            "title": "Muscle Magic"
+        },
+        {
+            "id": "thunder_god",
+            "prompt": "Create a mythic storm deity commanding lightning bolts atop a mountain peak, clouds churning with electric energy.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_thunder_250527.gif",
+            "title": "Thunder God"
         },
         {
             "id": "sakura_season",
@@ -509,16 +341,142 @@
             "title": "Sakura Season"
         },
         {
+            "id": "liquid_metal",
+            "prompt": "Render a futuristic character morphing from liquid metal into a solid form with reflective chrome surfaces.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_metal_250606.gif",
+            "title": "Liquid Metal"
+        },
+        {
+            "id": "bikini_up",
+            "prompt": "Capture a sunny beach montage of friends showcasing stylish swimwear, waves crashing and camera sweeping around them.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_bikini_250218.gif",
+            "title": "Bikini Up"
+        },
+        {
+            "id": "i_believe_i_can_fly",
+            "prompt": "Portray a dreamlike moment of weightless flight above the clouds, with the hero soaring through pastel skies.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fly_250725.gif",
+            "title": "I Believe I Can Fly"
+        },
+        {
+            "id": "jellycat_everything",
+            "prompt": "Animate a whimsical world filled with plush jellycat creatures bouncing and hugging in pastel-colored rooms.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jellytoy_250228.gif",
+            "title": "Jellycat Everything"
+        },
+        {
+            "id": "fairy_wings",
+            "prompt": "Show a magical transformation where translucent fairy wings unfurl as glittering particles fill a moonlit forest.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sprite_250605.gif",
+            "title": "Fairy Wings"
+        },
+        {
+            "id": "punch_face",
+            "prompt": "Show a dramatic boxing punch landing in slow motion, sweat and impact ripples frozen in midair.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250515.gif",
+            "title": "Punch Face"
+        },
+        {
+            "id": "become_a_mermaid",
+            "prompt": "Imagine a fantasy underwater transformation where a person becomes a shimmering mermaid swimming through sunlit ocean currents.",
+            "video": "https://b17gy9ouiugrnmfh.public.blob.vercel-storage.com/mermaid.gif",
+            "title": "Become a Mermaid"
+        },
+        {
+            "id": "beam_me_up",
+            "prompt": "Produce a sci-fi abduction moment where a beam of light lifts a person upward into a hovering spacecraft at night.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blue_250725.gif",
+            "title": "Beam Me Up"
+        },
+        {
+            "id": "earth_zoom_challenge",
+            "prompt": "Animate an epic earth-to-space zoom that starts on a bustling city street and rockets outward to reveal the entire planet.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_earthzoom_250716.gif",
+            "title": "Earth Zoom Challenge"
+        },
+        {
+            "id": "suit_swagger",
+            "prompt": "Portray a confident individual striding through a city plaza in a sharp suit, wind catching the fabric as the camera tracks their swagger.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_suit_250324.gif",
+            "title": "Suit Swagger"
+        },
+        {
+            "id": "i_believe_i_can_fly",
+            "prompt": "Portray a dreamlike moment of weightless flight above the clouds, with the hero soaring through pastel skies.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fly_250725.gif",
+            "title": "I Believe I Can Fly"
+        },
+        {
+            "id": "emergency_beat",
+            "prompt": "Create an electrifying dance sequence set to siren-like beats, with performers moving under flashing red and blue lights.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_emergency_250409.gif",
+            "title": "Emergency Beat"
+        },
+        {
+            "id": "liquid_metal",
+            "prompt": "Render a futuristic character morphing from liquid metal into a solid form with reflective chrome surfaces.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_metal_250606.gif",
+            "title": "Liquid Metal"
+        },
+        {
+            "id": "evil_trigger",
+            "prompt": "Portray a dark antihero unleashing fiery powers, eyes glowing as flames ignite around them in a dystopian alley.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250328.gif",
+            "title": "Evil Trigger"
+        },
+        {
+            "id": "vroom_vroom",
+            "prompt": "Film a cinematic street-racing scene with a sleek sports car drifting through neon city streets and engines roaring.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_dance_250316.gif",
+            "title": "Vroom Vroom"
+        },
+        {
+            "id": "pomba_gira_slay",
+            "prompt": "Celebrate an empowered dancer channeling Pomba Gira energy, swirling in red and black fabrics with ritualistic firelight.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pombagira_250213.gif",
+            "title": "Pomba Gira Slay"
+        },
+        {
+            "id": "fire_roar",
+            "prompt": "Visualize an elemental warrior summoning roaring flames around them, embers swirling in a dark, smoky environment.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250312.gif",
+            "title": "Fire Roar"
+        },
+        {
+            "id": "emergency_beat",
+            "prompt": "Create an electrifying dance sequence set to siren-like beats, with performers moving under flashing red and blue lights.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_emergency_250409.gif",
+            "title": "Emergency Beat"
+        },
+        {
             "id": "vogue_walk",
             "prompt": "Shoot a high-fashion runway walk with fierce poses, dramatic backlighting, and a glossy editorial aesthetic.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_model_250312.gif",
             "title": "Vogue Walk"
         },
         {
-            "id": "ride_my_porsche",
-            "prompt": "Feature a luxury Porsche cruising along a coastal highway at golden hour, reflections gleaming on its polished curves.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_car_250706.gif",
-            "title": "Ride My Porsche"
+            "id": "eye_zoom_challenge",
+            "prompt": "Animate an intense macro zoom traveling from a person's pupil outward to reveal an expansive sci-fi landscape.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_eye_250524.gif",
+            "title": "Eye Zoom Challenge"
+        },
+        {
+            "id": "eye_zoom_challenge",
+            "prompt": "Animate an intense macro zoom traveling from a person's pupil outward to reveal an expansive sci-fi landscape.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_eye_250524.gif",
+            "title": "Eye Zoom Challenge"
+        },
+        {
+            "id": "mega_dive",
+            "prompt": "Capture a daring cliff diver leaping from a towering rock into turquoise waters in slow motion, spray sparkling in the sun.",
+            "video": "https://b17gy9ouiugrnmfh.public.blob.vercel-storage.com/dive.gif",
+            "title": "Mega Dive"
+        },
+        {
+            "id": "become_a_mermaid",
+            "prompt": "Imagine a fantasy underwater transformation where a person becomes a shimmering mermaid swimming through sunlit ocean currents.",
+            "video": "https://b17gy9ouiugrnmfh.public.blob.vercel-storage.com/mermaid.gif",
+            "title": "Become a Mermaid"
         },
         {
             "id": "fire_roar",
@@ -533,28 +491,22 @@
             "title": "Thunder God"
         },
         {
+            "id": "old_photo_retrieval",
+            "prompt": "Craft an emotional vignette of a person restoring a treasured vintage photograph, with close-ups of aged textures and soft nostalgic lighting.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_old_250630.gif",
+            "title": "Old Photo Retrieval"
+        },
+        {
             "id": "i_believe_i_can_fly",
             "prompt": "Portray a dreamlike moment of weightless flight above the clouds, with the hero soaring through pastel skies.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fly_250725.gif",
             "title": "I Believe I Can Fly"
         },
         {
-            "id": "eye_zoom_challenge",
-            "prompt": "Animate an intense macro zoom traveling from a person's pupil outward to reveal an expansive sci-fi landscape.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_eye_250524.gif",
-            "title": "Eye Zoom Challenge"
-        },
-        {
-            "id": "punch_face",
-            "prompt": "Show a dramatic boxing punch landing in slow motion, sweat and impact ripples frozen in midair.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_punch_250515.gif",
-            "title": "Punch Face"
-        },
-        {
-            "id": "kiss_me_ai",
-            "prompt": "Imagine a futuristic romance where a human and holographic AI lean in for a kiss amid glowing circuitry and soft neon light.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ailover_250212.gif",
-            "title": "Kiss Me, AI!"
+            "id": "whos_arrested",
+            "prompt": "Stage a tense crime drama moment where flashing police lights illuminate a suspect being apprehended as the camera circles the scene.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_arrest_250610.gif",
+            "title": "Who's Arrested?"
         },
         {
             "id": "liquid_metal",
@@ -563,60 +515,108 @@
             "title": "Liquid Metal"
         },
         {
+            "id": "old_photo_retrieval",
+            "prompt": "Craft an emotional vignette of a person restoring a treasured vintage photograph, with close-ups of aged textures and soft nostalgic lighting.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_old_250630.gif",
+            "title": "Old Photo Retrieval"
+        },
+        {
+            "id": "somber_embrace",
+            "prompt": "Capture two figures sharing a quiet, emotional embrace in moody lighting, rain streaking down a window nearby.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blackwings_0609.gif",
+            "title": "Somber Embrace"
+        },
+        {
+            "id": "jiggle_jiggle",
+            "prompt": "Animate a playful dance loop where the performer emphasizes bouncy, rhythmic moves to a catchy beat with vibrant lighting.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jiggle_250422.gif",
+            "title": "Jiggle Jiggle"
+        },
+        {
+            "id": "kiss_me_ai",
+            "prompt": "Imagine a futuristic romance where a human and holographic AI lean in for a kiss amid glowing circuitry and soft neon light.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ailover_250212.gif",
+            "title": "Kiss Me, AI!"
+        },
+        {
+            "id": "ride_my_porsche",
+            "prompt": "Feature a luxury Porsche cruising along a coastal highway at golden hour, reflections gleaming on its polished curves.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_car_250706.gif",
+            "title": "Ride My Porsche"
+        },
+        {
+            "id": "sakura_season",
+            "prompt": "Depict a serene springtime stroll beneath blooming cherry blossoms, petals drifting in the air as sunlight filters through.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_sakura_250305.gif",
+            "title": "Sakura Season"
+        },
+        {
+            "id": "jiggle_jiggle",
+            "prompt": "Animate a playful dance loop where the performer emphasizes bouncy, rhythmic moves to a catchy beat with vibrant lighting.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jiggle_250422.gif",
+            "title": "Jiggle Jiggle"
+        },
+        {
+            "id": "become_a_mermaid",
+            "prompt": "Imagine a fantasy underwater transformation where a person becomes a shimmering mermaid swimming through sunlit ocean currents.",
+            "video": "https://b17gy9ouiugrnmfh.public.blob.vercel-storage.com/mermaid.gif",
+            "title": "Become a Mermaid"
+        },
+        {
             "id": "jellycat_everything",
             "prompt": "Animate a whimsical world filled with plush jellycat creatures bouncing and hugging in pastel-colored rooms.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jellytoy_250228.gif",
             "title": "Jellycat Everything"
         },
         {
-            "id": "retro_anime",
-            "prompt": "Create a nostalgic 80s anime-inspired action sequence with bold cel shading, speed lines, and neon gradients.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_anime_250415.gif",
-            "title": "Retro Anime"
-        },
-        {
-            "id": "evil_trigger",
-            "prompt": "Portray a dark antihero unleashing fiery powers, eyes glowing as flames ignite around them in a dystopian alley.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fire_250328.gif",
-            "title": "Evil Trigger"
-        },
-        {
-            "id": "sheep_curls",
-            "prompt": "Design a cozy salon scene where fluffy curls are styled into playful sheep-inspired shapes with soft lighting.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_curlyhair.gif",
-            "title": "Sheep Curls"
-        },
-        {
-            "id": "fairy_wings",
-            "prompt": "Show a magical transformation where translucent fairy wings unfurl as glittering particles fill a moonlit forest.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_sprite_250605.gif",
-            "title": "Fairy Wings"
-        },
-        {
-            "id": "beam_me_up",
-            "prompt": "Produce a sci-fi abduction moment where a beam of light lifts a person upward into a hovering spacecraft at night.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blue_250725.gif",
-            "title": "Beam Me Up"
+            "id": "muscle_magic",
+            "prompt": "Showcase a powerful athlete unleashing explosive strength in a neon-lit gym, muscles flexing with dramatic lighting and particles.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_musclesurge.gif",
+            "title": "Muscle Magic"
         },
         {
             "id": "pomba_gira_slay",
             "prompt": "Celebrate an empowered dancer channeling Pomba Gira energy, swirling in red and black fabrics with ritualistic firelight.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_pombagira_250213.gif",
             "title": "Pomba Gira Slay"
+        },
+        {
+            "id": "vogue_walk",
+            "prompt": "Shoot a high-fashion runway walk with fierce poses, dramatic backlighting, and a glossy editorial aesthetic.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_model_250312.gif",
+            "title": "Vogue Walk"
+        },
+        {
+            "id": "thunder_god",
+            "prompt": "Create a mythic storm deity commanding lightning bolts atop a mountain peak, clouds churning with electric energy.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_thunder_250527.gif",
+            "title": "Thunder God"
+        },
+        {
+            "id": "kiss_me_ai",
+            "prompt": "Imagine a futuristic romance where a human and holographic AI lean in for a kiss amid glowing circuitry and soft neon light.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_ailover_250212.gif",
+            "title": "Kiss Me, AI!"
+        },
+        {
+            "id": "jiggle_jiggle",
+            "prompt": "Animate a playful dance loop where the performer emphasizes bouncy, rhythmic moves to a catchy beat with vibrant lighting.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_jiggle_250422.gif",
+            "title": "Jiggle Jiggle"
         }
     ],
     "Superhero": [
-        {
-            "id": "wukong",
-            "prompt": "Deliver an epic action scene of Sun Wukong battling foes atop stormy mountains, staff spinning with sparks and swirling clouds.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blackmyth.gif",
-            "title": "Black Myth: Wukong"
-        },
         {
             "id": "kungfu_club",
             "prompt": "Choreograph an intense kung fu sparring session inside a dimly lit underground dojo with fast strikes and cinematic dust.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_fight_250114.gif",
             "title": "Kungfu Club"
+        },
+        {
+            "id": "wukong",
+            "prompt": "Deliver an epic action scene of Sun Wukong battling foes atop stormy mountains, staff spinning with sparks and swirling clouds.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_blackmyth.gif",
+            "title": "Black Myth: Wukong"
         },
         {
             "id": "wukong",
@@ -639,28 +639,10 @@
     ],
     "Transform": [
         {
-            "id": "lego_blast",
-            "prompt": "Animate a stop-motion inspired explosion of LEGO bricks assembling into an action hero who blasts through obstacles.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_Lego+Blast_0113.gif",
-            "title": "Lego Blast"
-        },
-        {
-            "id": "clay_fool",
-            "prompt": "Show a quirky claymation character pulling exaggerated faces and antics on a handcrafted miniature stage.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_caly_250423.gif",
-            "title": "Clay Fool"
-        },
-        {
-            "id": "zombie_mode",
-            "prompt": "Portray a dramatic transformation from human to zombie with decaying makeup, eerie lighting, and unsettling movements.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_zombiemode_0114.gif",
-            "title": "Zombie Mode"
-        },
-        {
-            "id": "carnival_queen",
-            "prompt": "Celebrate a vibrant carnival parade led by a glittering queen in feathered costume dancing through confetti-filled streets.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_carnival_250308.gif",
-            "title": "Carnival Queen"
+            "id": "anything_robot",
+            "prompt": "Design a lively montage of retro robots performing everyday tasks with charming mechanical gestures and neon accents.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_robot_250207.gif",
+            "title": "Anything, Robot!"
         },
         {
             "id": "born_to_barbie",
@@ -669,22 +651,22 @@
             "title": "Born to Barbie"
         },
         {
-            "id": "baby_face",
-            "prompt": "Highlight a portrait makeover that softens features into an adorable baby-faced look with bright, clean lighting.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_babyface_250113.gif",
-            "title": "Baby Face"
+            "id": "carnival_queen",
+            "prompt": "Celebrate a vibrant carnival parade led by a glittering queen in feathered costume dancing through confetti-filled streets.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_carnival_250308.gif",
+            "title": "Carnival Queen"
+        },
+        {
+            "id": "carnival_queen",
+            "prompt": "Celebrate a vibrant carnival parade led by a glittering queen in feathered costume dancing through confetti-filled streets.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_carnival_250308.gif",
+            "title": "Carnival Queen"
         },
         {
             "id": "simpson",
             "prompt": "Reimagine a person as a Simpsons-style cartoon character inside a bold, flat-colored suburban setting.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_simpson_250410.gif",
             "title": "Simpson"
-        },
-        {
-            "id": "anything_robot",
-            "prompt": "Design a lively montage of retro robots performing everyday tasks with charming mechanical gestures and neon accents.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_robot_250207.gif",
-            "title": "Anything, Robot!"
         },
         {
             "id": "long_hair_magic",
@@ -699,40 +681,40 @@
             "title": "Gender Swap"
         },
         {
-            "id": "lego_blast",
-            "prompt": "Animate a stop-motion inspired explosion of LEGO bricks assembling into an action hero who blasts through obstacles.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_Lego+Blast_0113.gif",
-            "title": "Lego Blast"
-        },
-        {
             "id": "clay_fool",
             "prompt": "Show a quirky claymation character pulling exaggerated faces and antics on a handcrafted miniature stage.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_caly_250423.gif",
             "title": "Clay Fool"
         },
         {
-            "id": "zombie_mode",
-            "prompt": "Portray a dramatic transformation from human to zombie with decaying makeup, eerie lighting, and unsettling movements.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_zombiemode_0114.gif",
-            "title": "Zombie Mode"
+            "id": "lego_blast",
+            "prompt": "Animate a stop-motion inspired explosion of LEGO bricks assembling into an action hero who blasts through obstacles.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_Lego+Blast_0113.gif",
+            "title": "Lego Blast"
         },
         {
-            "id": "carnival_queen",
-            "prompt": "Celebrate a vibrant carnival parade led by a glittering queen in feathered costume dancing through confetti-filled streets.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_carnival_250308.gif",
-            "title": "Carnival Queen"
+            "id": "anything_robot",
+            "prompt": "Design a lively montage of retro robots performing everyday tasks with charming mechanical gestures and neon accents.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_robot_250207.gif",
+            "title": "Anything, Robot!"
         },
         {
-            "id": "born_to_barbie",
-            "prompt": "Transform a character into a life-size Barbie doll inside a pink dreamhouse with glossy fashion poses.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_barbie_250429.gif",
-            "title": "Born to Barbie"
+            "id": "anything_robot",
+            "prompt": "Design a lively montage of retro robots performing everyday tasks with charming mechanical gestures and neon accents.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_robot_250207.gif",
+            "title": "Anything, Robot!"
         },
         {
             "id": "baby_face",
             "prompt": "Highlight a portrait makeover that softens features into an adorable baby-faced look with bright, clean lighting.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_babyface_250113.gif",
             "title": "Baby Face"
+        },
+        {
+            "id": "born_to_barbie",
+            "prompt": "Transform a character into a life-size Barbie doll inside a pink dreamhouse with glossy fashion poses.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_barbie_250429.gif",
+            "title": "Born to Barbie"
         },
         {
             "id": "simpson",
@@ -741,10 +723,28 @@
             "title": "Simpson"
         },
         {
-            "id": "anything_robot",
-            "prompt": "Design a lively montage of retro robots performing everyday tasks with charming mechanical gestures and neon accents.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_robot_250207.gif",
-            "title": "Anything, Robot!"
+            "id": "born_to_barbie",
+            "prompt": "Transform a character into a life-size Barbie doll inside a pink dreamhouse with glossy fashion poses.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_barbie_250429.gif",
+            "title": "Born to Barbie"
+        },
+        {
+            "id": "zombie_mode",
+            "prompt": "Portray a dramatic transformation from human to zombie with decaying makeup, eerie lighting, and unsettling movements.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_zombiemode_0114.gif",
+            "title": "Zombie Mode"
+        },
+        {
+            "id": "zombie_mode",
+            "prompt": "Portray a dramatic transformation from human to zombie with decaying makeup, eerie lighting, and unsettling movements.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_zombiemode_0114.gif",
+            "title": "Zombie Mode"
+        },
+        {
+            "id": "lego_blast",
+            "prompt": "Animate a stop-motion inspired explosion of LEGO bricks assembling into an action hero who blasts through obstacles.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_Lego+Blast_0113.gif",
+            "title": "Lego Blast"
         },
         {
             "id": "long_hair_magic",
@@ -753,16 +753,28 @@
             "title": "Long Hair Magic"
         },
         {
-            "id": "gender_swap",
-            "prompt": "Illustrate a seamless gender transformation with mirror transitions revealing alternate stylings and expressions.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_genderchange_250221.gif",
-            "title": "Gender Swap"
+            "id": "clay_fool",
+            "prompt": "Show a quirky claymation character pulling exaggerated faces and antics on a handcrafted miniature stage.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_caly_250423.gif",
+            "title": "Clay Fool"
+        },
+        {
+            "id": "baby_face",
+            "prompt": "Highlight a portrait makeover that softens features into an adorable baby-faced look with bright, clean lighting.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_babyface_250113.gif",
+            "title": "Baby Face"
         },
         {
             "id": "lego_blast",
             "prompt": "Animate a stop-motion inspired explosion of LEGO bricks assembling into an action hero who blasts through obstacles.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_Lego+Blast_0113.gif",
             "title": "Lego Blast"
+        },
+        {
+            "id": "gender_swap",
+            "prompt": "Illustrate a seamless gender transformation with mirror transitions revealing alternate stylings and expressions.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_genderchange_250221.gif",
+            "title": "Gender Swap"
         },
         {
             "id": "clay_fool",
@@ -777,22 +789,10 @@
             "title": "Carnival Queen"
         },
         {
-            "id": "born_to_barbie",
-            "prompt": "Transform a character into a life-size Barbie doll inside a pink dreamhouse with glossy fashion poses.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_barbie_250429.gif",
-            "title": "Born to Barbie"
-        },
-        {
             "id": "baby_face",
             "prompt": "Highlight a portrait makeover that softens features into an adorable baby-faced look with bright, clean lighting.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_babyface_250113.gif",
             "title": "Baby Face"
-        },
-        {
-            "id": "anything_robot",
-            "prompt": "Design a lively montage of retro robots performing everyday tasks with charming mechanical gestures and neon accents.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_robot_250207.gif",
-            "title": "Anything, Robot!"
         }
     ],
     "Classics": [
@@ -809,16 +809,28 @@
             "title": "Holy Wings"
         },
         {
-            "id": "leggy_run",
-            "prompt": "Illustrate a fashionable character sprinting down a runway with exaggerated long legs, camera tracking their playful stride.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_leggyrun.gif",
-            "title": "Leggy Run"
+            "id": "squish_it",
+            "prompt": "Create a satisfying ASMR-style close-up of hands squishing colorful slime and soft objects with playful sound design.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squishit.gif",
+            "title": "Squish It"
         },
         {
             "id": "the_tigers_touch",
             "prompt": "Depict a tender interaction between a majestic tiger and a brave companion, golden light emphasizing their bond.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_tigerhug_250127.gif",
             "title": "The Tiger's Touch"
+        },
+        {
+            "id": "the_tigers_touch",
+            "prompt": "Depict a tender interaction between a majestic tiger and a brave companion, golden light emphasizing their bond.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_tigerhug_250127.gif",
+            "title": "The Tiger's Touch"
+        },
+        {
+            "id": "leggy_run",
+            "prompt": "Illustrate a fashionable character sprinting down a runway with exaggerated long legs, camera tracking their playful stride.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_leggyrun.gif",
+            "title": "Leggy Run"
         },
         {
             "id": "squish_it",
@@ -833,22 +845,16 @@
             "title": "Holy Wings"
         },
         {
-            "id": "leggy_run",
-            "prompt": "Illustrate a fashionable character sprinting down a runway with exaggerated long legs, camera tracking their playful stride.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_leggyrun.gif",
-            "title": "Leggy Run"
-        },
-        {
             "id": "the_tigers_touch",
             "prompt": "Depict a tender interaction between a majestic tiger and a brave companion, golden light emphasizing their bond.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_tigerhug_250127.gif",
             "title": "The Tiger's Touch"
         },
         {
-            "id": "squish_it",
-            "prompt": "Create a satisfying ASMR-style close-up of hands squishing colorful slime and soft objects with playful sound design.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_squishit.gif",
-            "title": "Squish It"
+            "id": "leggy_run",
+            "prompt": "Illustrate a fashionable character sprinting down a runway with exaggerated long legs, camera tracking their playful stride.",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_leggyrun.gif",
+            "title": "Leggy Run"
         },
         {
             "id": "holy_wings",
@@ -861,12 +867,6 @@
             "prompt": "Illustrate a fashionable character sprinting down a runway with exaggerated long legs, camera tracking their playful stride.",
             "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_leggyrun.gif",
             "title": "Leggy Run"
-        },
-        {
-            "id": "the_tigers_touch",
-            "prompt": "Depict a tender interaction between a majestic tiger and a brave companion, golden light emphasizing their bond.",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_tigerhug_250127.gif",
-            "title": "The Tiger's Touch"
         }
     ],
     "Product": [
@@ -891,34 +891,22 @@
     ],
     "trendings": [
         {
-            "id": "fin-tastic-mermaid",
-            "prompt": "Become a Mermaid",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mermaid_250528.mp4",
-            "title": "Become a Mermaid"
-        },
-        {
-            "id": "earth-zoom-challenge",
-            "prompt": "Earth Zoom Challenge",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_earthzoom_250716.mp4",
-            "title": "Earth Zoom Challenge"
-        },
-        {
-            "id": "fin-tastic-mermaid",
-            "prompt": "Become a Mermaid",
-            "video": "https://b17gy9ouiugrnmfh.public.blob.vercel-storage.com/mermaid.gif",
-            "title": "Become a Mermaid"
+            "id": "muscle-surge",
+            "prompt": "Muscle Magic",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/feature3_muscle.gif",
+            "title": "Muscle Magic"
         },
         {
             "id": "bodyshake",
             "prompt": "Body Shake",
-            "video": "https://image01.cf.vidu.studio/vidu-maas/Tempmates_material/Dynamic/Dynamic/zhaunshenrewu_video.mp4",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/feature2bodyshake.gif",
             "title": "Body Shake"
         },
         {
-            "id": "muscle-surge",
-            "prompt": "Muscle Magic",
-            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_musclesurge.gif",
-            "title": "Muscle Magic"
+            "id": "trendings_17",
+            "prompt": "Demonstrate the VEO 3 image-to-video feature with UI overlays and dynamic examples morphing photos into motion.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/feature1_veo3image.gif",
+            "title": "VEO 3 | Image to Video "
         },
         {
             "id": "fin-tastic-mermaid",
@@ -939,28 +927,28 @@
             "title": "Muscle Magic"
         },
         {
-            "id": "trendings_9",
-            "prompt": "Demonstrate the VEO 3 image-to-video feature with UI overlays and dynamic examples morphing photos into motion.",
-            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/feature1_veo3image.gif",
-            "title": "VEO 3 | Image to Video "
-        },
-        {
-            "id": "bodyshake",
-            "prompt": "Body Shake",
-            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/feature2bodyshake.gif",
-            "title": "Body Shake"
-        },
-        {
             "id": "muscle-surge",
             "prompt": "Muscle Magic",
             "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/feature3_muscle.gif",
             "title": "Muscle Magic"
         },
         {
-            "id": "earth-zoom-challenge",
-            "prompt": "Earth Zoom Challenge",
-            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/trending4_earthzoom.gif",
-            "title": "Earth Zoom Challenge"
+            "id": "fin-tastic-mermaid",
+            "prompt": "Become a Mermaid",
+            "video": "https://b17gy9ouiugrnmfh.public.blob.vercel-storage.com/mermaid.gif",
+            "title": "Become a Mermaid"
+        },
+        {
+            "id": "trendings_9",
+            "prompt": "Demonstrate the VEO 3 image-to-video feature with UI overlays and dynamic examples morphing photos into motion.",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/feature1_veo3image.gif",
+            "title": "VEO 3 | Image to Video "
+        },
+        {
+            "id": "muscle-surge",
+            "prompt": "Muscle Magic",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fapp_musclesurge.gif",
+            "title": "Muscle Magic"
         },
         {
             "id": "trendings_13",
@@ -969,16 +957,40 @@
             "title": "VEO 3 | Image to Video "
         },
         {
+            "id": "earth-zoom-challenge",
+            "prompt": "Earth Zoom Challenge",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/trending4_earthzoom.gif",
+            "title": "Earth Zoom Challenge"
+        },
+        {
+            "id": "fin-tastic-mermaid",
+            "prompt": "Become a Mermaid",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_mermaid_250528.mp4",
+            "title": "Become a Mermaid"
+        },
+        {
+            "id": "earth-zoom-challenge",
+            "prompt": "Earth Zoom Challenge",
+            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/trending4_earthzoom.gif",
+            "title": "Earth Zoom Challenge"
+        },
+        {
             "id": "bodyshake",
             "prompt": "Body Shake",
             "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/feature2bodyshake.gif",
             "title": "Body Shake"
         },
         {
-            "id": "muscle-surge",
-            "prompt": "Muscle Magic",
-            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/feature3_muscle.gif",
-            "title": "Muscle Magic"
+            "id": "bodyshake",
+            "prompt": "Body Shake",
+            "video": "https://image01.cf.vidu.studio/vidu-maas/Tempmates_material/Dynamic/Dynamic/zhaunshenrewu_video.mp4",
+            "title": "Body Shake"
+        },
+        {
+            "id": "earth-zoom-challenge",
+            "prompt": "Earth Zoom Challenge",
+            "video": "https://media.pixverse.ai/asset%2Ftemplate%2Fweb_earthzoom_250716.mp4",
+            "title": "Earth Zoom Challenge"
         },
         {
             "id": "earth-zoom-challenge",
@@ -987,22 +999,10 @@
             "title": "Earth Zoom Challenge"
         },
         {
-            "id": "trendings_17",
-            "prompt": "Demonstrate the VEO 3 image-to-video feature with UI overlays and dynamic examples morphing photos into motion.",
-            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/feature1_veo3image.gif",
-            "title": "VEO 3 | Image to Video "
-        },
-        {
             "id": "muscle-surge",
             "prompt": "Muscle Magic",
             "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/feature3_muscle.gif",
             "title": "Muscle Magic"
-        },
-        {
-            "id": "earth-zoom-challenge",
-            "prompt": "Earth Zoom Challenge",
-            "video": "https://gya3jqzdh8phozdf.public.blob.vercel-storage.com/trending4_earthzoom.gif",
-            "title": "Earth Zoom Challenge"
         }
     ],
     "veo3guideline": [
