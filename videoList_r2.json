@@ -1,0 +1,458 @@
+{
+  "explore": [
+    {
+      "id": "explore_3",
+      "prompt": "A humorous scene of a contemplative monkey sitting in an armchair, playing a guitar in a cozy, dimly lit living room. The atmosphere is warm, featuring soft ambient lighting, a vintage vibe, and a touch of whimsy.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/gifs/3.gif",
+      "title": "Guitar-Playing Monkey in Cozy Parlor"
+    },
+    {
+      "id": "explore_5",
+      "prompt": "A mysterious woman dressed in vintage black attire, sitting confidently at a desk in a noir-style setting. The scene features sharp contrasts of light and shadow, emphasizing her poised and enigmatic demeanor.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/gifs/5.gif",
+      "title": "Noir Muse Poised at Shadowed Desk"
+    },
+    {
+      "id": "explore_8",
+      "prompt": "3D animated character, a young boy with large, expressive eyes and a cheerful expression, is running along with a dog on a lively street scene.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/gifs/8.gif",
+      "title": "Boy and Dog Racing Down Vibrant Street"
+    },
+    {
+      "id": "explore_1",
+      "prompt": "A striking visual captures a person standing confidently next to a vintage car, dressed in a well-fitted light pink suit complemented by a matching tie and a crisp white shirt. The individual's posture is upright, hands casually tucked in pockets, exuding an air of sophistication.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/gifs/1.gif",
+      "title": "Dapper Pink Suit Beside Vintage Car"
+    },
+    {
+      "id": "explore_7",
+      "prompt": "A robotic figure with a weathered backpack walking through a lush, misty forest. The video emphasizes the contrast between nature and technology, as the android explores the serene, green landscape.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/gifs/7.gif",
+      "title": "Android Trekking Through Misty Forest"
+    },
+    {
+      "id": "explore_6",
+      "prompt": "Futuristic woman wearing glowing neon visor, reflecting city lights, exuding a sleek and cyberpunk vibe.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/gifs/6.gif",
+      "title": "Cyberpunk Neon Visor Portrait"
+    },
+    {
+      "id": "explore_4",
+      "prompt": "An astronaut in a white spacesuit stands alone in a vast, reddish desert. The video pans around to capture the stark landscape under a bright, cloudless sky, evoking feelings of isolation and exploration of an alien terrain.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/gifs/4.gif",
+      "title": "Lone Astronaut on Red Desert World"
+    },
+    {
+      "id": "explore_2",
+      "prompt": "90s photo of a model , wearing a white t and red text that says 'I LOVE LOOP'. In the foreground, a nightclub crowd. Kodak Gold 400 film, soft lighting. Posted on Snapchat. Polaroid photography in the style of Tarkovsky.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/gifs/2.gif",
+      "title": "I LOVE LOOP 90s Club Snapshot"
+    }
+  ],
+  "motion-style": [
+    {
+      "id": "motion-style_4",
+      "prompt": "Generate a dramatic timelapse scene showing time racing forward as clouds streak, shadows pivot, and city lights ignite.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/timelapse.gif",
+      "title": "Timelapse"
+    },
+    {
+      "id": "motion-style_3",
+      "prompt": "Film a poetic slow-motion moment where every movement is stretched and graceful, highlighting delicate details in soft light.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/slow.gif",
+      "title": "Slow"
+    },
+    {
+      "id": "motion-style_2",
+      "prompt": "Produce an energetic motion sequence packed with bold transitions, rhythmic camera swings, and vibrant lighting that feels alive.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/dynamic.gif",
+      "title": "Dynamic"
+    },
+    {
+      "id": "motion-style_1",
+      "prompt": "Create a high-octane video that conveys extreme speed with rapid camera moves, streaking lights, and a subject rushing past the viewer.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/fast.gif",
+      "title": "Fast"
+    }
+  ],
+  "Trending": [
+    {
+      "id": "beam_me_up",
+      "prompt": "Produce a sci-fi abduction moment where a beam of light lifts a person upward into a hovering spacecraft at night.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_blue_250725.gif",
+      "title": "Beam Me Up"
+    },
+    {
+      "id": "sheep_curls",
+      "prompt": "Design a cozy salon scene where fluffy curls are styled into playful sheep-inspired shapes with soft lighting.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_curlyhair.gif",
+      "title": "Sheep Curls"
+    },
+    {
+      "id": "transition",
+      "prompt": "Design a stylish montage of seamless transitions where a subject moves through multiple outfits and locations without cutting.",
+      "video": "https://storage.googleapis.com/magicpoint/thumbs/pixverse-transition-thumb.gif",
+      "title": "Transition"
+    },
+    {
+      "id": "sakura_season",
+      "prompt": "Depict a serene springtime stroll beneath blooming cherry blossoms, petals drifting in the air as sunlight filters through.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/app_sakura_250305.gif",
+      "title": "Sakura Season"
+    },
+    {
+      "id": "vroom_vroom",
+      "prompt": "Film a cinematic street-racing scene with a sleek sports car drifting through neon city streets and engines roaring.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/app_dance_250316.gif",
+      "title": "Vroom Vroom"
+    },
+    {
+      "id": "smoking_vibe",
+      "prompt": "Film a stylish portrait of a character exhaling smoke in cinematic lighting, wisps curling dramatically around their face.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/websmoke250113.gif",
+      "title": "Smoking Vibe"
+    },
+    {
+      "id": "mega_dive",
+      "prompt": "Capture a daring cliff diver leaping from a towering rock into turquoise waters in slow motion, spray sparkling in the sun.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/dive.gif",
+      "title": "Mega Dive"
+    },
+    {
+      "id": "evil_trigger",
+      "prompt": "Portray a dark antihero unleashing fiery powers, eyes glowing as flames ignite around them in a dystopian alley.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_fire_250328.gif",
+      "title": "Evil Trigger"
+    },
+    {
+      "id": "earth_zoom_challenge",
+      "prompt": "Animate an epic earth-to-space zoom that starts on a bustling city street and rockets outward to reveal the entire planet.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_earthzoom_250716.gif",
+      "title": "Earth Zoom Challenge"
+    },
+    {
+      "id": "punch_face",
+      "prompt": "Show a dramatic boxing punch landing in slow motion, sweat and impact ripples frozen in midair.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_punch_250515.gif",
+      "title": "Punch Face"
+    },
+    {
+      "id": "suit_swagger",
+      "prompt": "Portray a confident individual striding through a city plaza in a sharp suit, wind catching the fabric as the camera tracks their swagger.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/app_suit_250324.gif",
+      "title": "Suit Swagger"
+    },
+    {
+      "id": "jellycat_everything",
+      "prompt": "Animate a whimsical world filled with plush jellycat creatures bouncing and hugging in pastel-colored rooms.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_jellytoy_250228.gif",
+      "title": "Jellycat Everything"
+    },
+    {
+      "id": "whos_arrested",
+      "prompt": "Stage a tense crime drama moment where flashing police lights illuminate a suspect being apprehended as the camera circles the scene.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_arrest_250610.gif",
+      "title": "Who's Arrested?"
+    },
+    {
+      "id": "eye_zoom_challenge",
+      "prompt": "Animate an intense macro zoom traveling from a person's pupil outward to reveal an expansive sci-fi landscape.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_eye_250524.gif",
+      "title": "Eye Zoom Challenge"
+    },
+    {
+      "id": "retro_anime",
+      "prompt": "Create a nostalgic 80s anime-inspired action sequence with bold cel shading, speed lines, and neon gradients.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_anime_250415.gif",
+      "title": "Retro Anime"
+    },
+    {
+      "id": "old_photo_retrieval",
+      "prompt": "Craft an emotional vignette of a person restoring a treasured vintage photograph, with close-ups of aged textures and soft nostalgic lighting.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_old_250630.gif",
+      "title": "Old Photo Retrieval"
+    },
+    {
+      "id": "vogue_walk",
+      "prompt": "Shoot a high-fashion runway walk with fierce poses, dramatic backlighting, and a glossy editorial aesthetic.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_model_250312.gif",
+      "title": "Vogue Walk"
+    },
+    {
+      "id": "somber_embrace",
+      "prompt": "Capture two figures sharing a quiet, emotional embrace in moody lighting, rain streaking down a window nearby.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_blackwings_0609.gif",
+      "title": "Somber Embrace"
+    },
+    {
+      "id": "fairy_wings",
+      "prompt": "Show a magical transformation where translucent fairy wings unfurl as glittering particles fill a moonlit forest.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_sprite_250605.gif",
+      "title": "Fairy Wings"
+    },
+    {
+      "id": "muscle_magic",
+      "prompt": "Showcase a powerful athlete unleashing explosive strength in a neon-lit gym, muscles flexing with dramatic lighting and particles.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/app_musclesurge.gif",
+      "title": "Muscle Magic"
+    },
+    {
+      "id": "emergency_beat",
+      "prompt": "Create an electrifying dance sequence set to siren-like beats, with performers moving under flashing red and blue lights.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/app_emergency_250409.gif",
+      "title": "Emergency Beat"
+    },
+    {
+      "id": "ride_my_porsche",
+      "prompt": "Feature a luxury Porsche cruising along a coastal highway at golden hour, reflections gleaming on its polished curves.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_car_250706.gif",
+      "title": "Ride My Porsche"
+    },
+    {
+      "id": "fire_roar",
+      "prompt": "Visualize an elemental warrior summoning roaring flames around them, embers swirling in a dark, smoky environment.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_fire_250312.gif",
+      "title": "Fire Roar"
+    },
+    {
+      "id": "bikini_up",
+      "prompt": "Capture a sunny beach montage of friends showcasing stylish swimwear, waves crashing and camera sweeping around them.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/app_bikini_250218.gif",
+      "title": "Bikini Up"
+    },
+    {
+      "id": "pomba_gira_slay",
+      "prompt": "Celebrate an empowered dancer channeling Pomba Gira energy, swirling in red and black fabrics with ritualistic firelight.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_pombagira_250213.gif",
+      "title": "Pomba Gira Slay"
+    },
+    {
+      "id": "thunder_god",
+      "prompt": "Create a mythic storm deity commanding lightning bolts atop a mountain peak, clouds churning with electric energy.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_thunder_250527.gif",
+      "title": "Thunder God"
+    },
+    {
+      "id": "liquid_metal",
+      "prompt": "Render a futuristic character morphing from liquid metal into a solid form with reflective chrome surfaces.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_metal_250606.gif",
+      "title": "Liquid Metal"
+    },
+    {
+      "id": "i_believe_i_can_fly",
+      "prompt": "Portray a dreamlike moment of weightless flight above the clouds, with the hero soaring through pastel skies.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_fly_250725.gif",
+      "title": "I Believe I Can Fly"
+    },
+    {
+      "id": "become_a_mermaid",
+      "prompt": "Imagine a fantasy underwater transformation where a person becomes a shimmering mermaid swimming through sunlit ocean currents.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/mermaid.gif",
+      "title": "Become a Mermaid"
+    },
+    {
+      "id": "jiggle_jiggle",
+      "prompt": "Animate a playful dance loop where the performer emphasizes bouncy, rhythmic moves to a catchy beat with vibrant lighting.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_jiggle_250422.gif",
+      "title": "Jiggle Jiggle"
+    },
+    {
+      "id": "kiss_me_ai",
+      "prompt": "Imagine a futuristic romance where a human and holographic AI lean in for a kiss amid glowing circuitry and soft neon light.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_ailover_250212.gif",
+      "title": "Kiss Me, AI!"
+    }
+  ],
+  "Superhero": [
+    {
+      "id": "kungfu_club",
+      "prompt": "Choreograph an intense kung fu sparring session inside a dimly lit underground dojo with fast strikes and cinematic dust.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_fight_250114.gif",
+      "title": "Kungfu Club"
+    },
+    {
+      "id": "wukong",
+      "prompt": "Deliver an epic action scene of Sun Wukong battling foes atop stormy mountains, staff spinning with sparks and swirling clouds.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_blackmyth.gif",
+      "title": "Black Myth: Wukong"
+    }
+  ],
+  "Transform": [
+    {
+      "id": "anything_robot",
+      "prompt": "Design a lively montage of retro robots performing everyday tasks with charming mechanical gestures and neon accents.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_robot_250207.gif",
+      "title": "Anything, Robot!"
+    },
+    {
+      "id": "born_to_barbie",
+      "prompt": "Transform a character into a life-size Barbie doll inside a pink dreamhouse with glossy fashion poses.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_barbie_250429.gif",
+      "title": "Born to Barbie"
+    },
+    {
+      "id": "carnival_queen",
+      "prompt": "Celebrate a vibrant carnival parade led by a glittering queen in feathered costume dancing through confetti-filled streets.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_carnival_250308.gif",
+      "title": "Carnival Queen"
+    },
+    {
+      "id": "simpson",
+      "prompt": "Reimagine a person as a Simpsons-style cartoon character inside a bold, flat-colored suburban setting.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_simpson_250410.gif",
+      "title": "Simpson"
+    },
+    {
+      "id": "long_hair_magic",
+      "prompt": "Showcase hair magically growing and flowing in slow motion as sparkles trail through the air.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_hairgrowth.gif",
+      "title": "Long Hair Magic"
+    },
+    {
+      "id": "gender_swap",
+      "prompt": "Illustrate a seamless gender transformation with mirror transitions revealing alternate stylings and expressions.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_genderchange_250221.gif",
+      "title": "Gender Swap"
+    },
+    {
+      "id": "clay_fool",
+      "prompt": "Show a quirky claymation character pulling exaggerated faces and antics on a handcrafted miniature stage.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/app_caly_250423.gif",
+      "title": "Clay Fool"
+    },
+    {
+      "id": "lego_blast",
+      "prompt": "Animate a stop-motion inspired explosion of LEGO bricks assembling into an action hero who blasts through obstacles.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/app_Lego+Blast_0113.gif",
+      "title": "Lego Blast"
+    },
+    {
+      "id": "baby_face",
+      "prompt": "Highlight a portrait makeover that softens features into an adorable baby-faced look with bright, clean lighting.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_babyface_250113.gif",
+      "title": "Baby Face"
+    },
+    {
+      "id": "zombie_mode",
+      "prompt": "Portray a dramatic transformation from human to zombie with decaying makeup, eerie lighting, and unsettling movements.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/app_zombiemode_0114.gif",
+      "title": "Zombie Mode"
+    }
+  ],
+  "Classics": [
+    {
+      "id": "squish_it",
+      "prompt": "Create a satisfying ASMR-style close-up of hands squishing colorful slime and soft objects with playful sound design.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_squishit.gif",
+      "title": "Squish It"
+    },
+    {
+      "id": "holy_wings",
+      "prompt": "Visualize a celestial figure unfurling radiant angel wings, bathed in beams of ethereal light inside a cathedral-like space.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_anglewings_250208.gif",
+      "title": "Holy Wings"
+    },
+    {
+      "id": "the_tigers_touch",
+      "prompt": "Depict a tender interaction between a majestic tiger and a brave companion, golden light emphasizing their bond.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_tigerhug_250127.gif",
+      "title": "The Tiger's Touch"
+    },
+    {
+      "id": "leggy_run",
+      "prompt": "Illustrate a fashionable character sprinting down a runway with exaggerated long legs, camera tracking their playful stride.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_leggyrun.gif",
+      "title": "Leggy Run"
+    }
+  ],
+  "Product": [
+    {
+      "id": "360_microwave",
+      "prompt": "Present a sleek microwave spinning in a full 360-degree product shot, highlighting design details with studio lighting.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_360_250227.gif",
+      "title": "360° Microwave"
+    }
+  ],
+  "trendings": [
+    {
+      "id": "muscle-surge",
+      "prompt": "Muscle Magic",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/feature3_muscle.gif",
+      "title": "Muscle Magic"
+    },
+    {
+      "id": "bodyshake",
+      "prompt": "Body Shake",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/feature2bodyshake.gif",
+      "title": "Body Shake"
+    },
+    {
+      "id": "trendings_17",
+      "prompt": "Demonstrate the VEO 3 image-to-video feature with UI overlays and dynamic examples morphing photos into motion.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/feature1_veo3image.gif",
+      "title": "VEO 3 | Image to Video "
+    },
+    {
+      "id": "fin-tastic-mermaid",
+      "prompt": "Become a Mermaid",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/mermaid.gif",
+      "title": "Become a Mermaid"
+    },
+    {
+      "id": "earth-zoom-challenge",
+      "prompt": "Earth Zoom Challenge",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/web_earthzoom_250716.gif",
+      "title": "Earth Zoom Challenge"
+    },
+    {
+      "id": "muscle-surge",
+      "prompt": "Muscle Magic",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/asset/template/app_musclesurge.gif",
+      "title": "Muscle Magic"
+    },
+    {
+      "id": "trendings_9",
+      "prompt": "Demonstrate the VEO 3 image-to-video feature with UI overlays and dynamic examples morphing photos into motion.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/feature1_veo3image.gif",
+      "title": "VEO 3 | Image to Video "
+    },
+    {
+      "id": "trendings_13",
+      "prompt": "Demonstrate the VEO 3 image-to-video feature with UI overlays and dynamic examples morphing photos into motion.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/feature1_veo3image.gif",
+      "title": "VEO 3 | Image to Video "
+    },
+    {
+      "id": "earth-zoom-challenge",
+      "prompt": "Earth Zoom Challenge",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/trending4_earthzoom.gif",
+      "title": "Earth Zoom Challenge"
+    },
+    {
+      "id": "fin-tastic-mermaid",
+      "prompt": "Become a Mermaid",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/gifs/asset/template/web_mermaid_250528.gif",
+      "title": "Become a Mermaid"
+    },
+    {
+      "id": "bodyshake",
+      "prompt": "Body Shake",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/gifs/zhaunshenrewu_video.gif",
+      "title": "Body Shake"
+    },
+    {
+      "id": "earth-zoom-challenge",
+      "prompt": "Earth Zoom Challenge",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/gifs/asset/template/web_earthzoom_250716.gif",
+      "title": "Earth Zoom Challenge"
+    }
+  ],
+  "veo3guideline": [
+    {
+      "id": "veo3guideline_1",
+      "prompt": "Explain the key steps of using VEO 3 through clean interface shots, highlighted pointers, and instructional overlays.",
+      "video": "https://pub-f7bc7d24ac944d8f8077090974993667.r2.dev/showcase/gifs/veo3guideline.gif",
+      "title": "Veo 3 Guideline"
+    }
+  ]
+}

@@ -5,9 +5,12 @@
   "type": "module",
   "main": "convertMp4ToGif.js",
   "scripts": {
-    "convert": "node convertMp4ToGif.js"
+    "convert": "node convertMp4ToGif.js",
+    "upload:r2": "node uploadVideosToR2.js"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.592.0",
+    "dotenv": "^16.4.5",
     "fluent-ffmpeg": "^2.1.2"
   }
 }

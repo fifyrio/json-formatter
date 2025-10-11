@@ -59,6 +59,9 @@ async function downloadFile(url, destination) {
     return destination;
   }
 
+  // Ensure nested directories (e.g., downloads/asset/template) exist
+  await fs.mkdir(path.dirname(destination), { recursive: true });
+
   const response = await fetch(url);
   if (!response.ok || !response.body) {
     throw new Error(`Failed to download ${url}: ${response.status} ${response.statusText}`);
@@ -68,7 +71,9 @@ async function downloadFile(url, destination) {
   return destination;
 }
 
-function convertToGif(inputPath, outputPath) {
+async function convertToGif(inputPath, outputPath) {
+  await fs.mkdir(path.dirname(outputPath), { recursive: true });
+
   return new Promise((resolve, reject) => {
     ffmpeg(inputPath)
       .outputOptions([
