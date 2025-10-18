@@ -18,7 +18,7 @@
             "Finish with a 1-minute plank to lock in the burn."
           ],
           "prompt": "High-energy lifestyle photograph of a single real person in sporty athleisure performing jumping jacks in a sunlit living room with a yoga mat, natural light, crisp focus",
-          "imageUrl": "assets/images/quick-workout.png"
+          "imageUrl": "https://pub-a4d912b58e514ce086aba82f37279862.r2.dev/tasks/quick-workout.png"
         },
         {
           "title": "Push-up Challenge",
@@ -32,7 +32,7 @@
             "Focus on controlled breathing throughout."
           ],
           "prompt": "Close-up fitness photograph of a single athlete performing controlled push-ups on a mat with a rest timer watch nearby, warm ambient lighting, emphasis on strength and calm breathing",
-          "imageUrl": "assets/images/push-up-challenge.png"
+          "imageUrl": "https://pub-a4d912b58e514ce086aba82f37279862.r2.dev/tasks/push-up-challenge.png"
         },
         {
           "title": "Stretch & Reset",
@@ -46,7 +46,7 @@
             "Hold a gentle forward fold for 2 minutes."
           ],
           "prompt": "Relaxing wellness photograph of a single real person holding a gentle forward fold stretch in a serene studio with soft plants and diffused morning light, soothing natural colors",
-          "imageUrl": "assets/images/stretch-reset.png"
+          "imageUrl": "https://pub-a4d912b58e514ce086aba82f37279862.r2.dev/tasks/stretch-reset.png"
         },
         {
           "title": "Cold Splash",
@@ -60,7 +60,7 @@
             "Finish with deep inhales and exhales."
           ],
           "prompt": "Refreshing candid photograph of a single person splashing cold water on their face at a bright bathroom sink, invigorated expression, cool blue tones, crisp water droplets",
-          "imageUrl": "assets/images/cold-splash.png"
+          "imageUrl": "https://pub-a4d912b58e514ce086aba82f37279862.r2.dev/tasks/cold-splash.png"
         },
         {
           "title": "Walk Break",
@@ -74,7 +74,7 @@
             "End with a gratitude thought before returning."
           ],
           "prompt": "Lifestyle photograph of a single person strolling along a leafy park path at golden hour, mindful expression, gentle depth of field, tranquil atmosphere",
-          "imageUrl": "assets/images/walk-break.png"
+          "imageUrl": "https://pub-a4d912b58e514ce086aba82f37279862.r2.dev/tasks/walk-break.png"
         },
         {
           "title": "Wall Sit",
@@ -88,7 +88,7 @@
             "Hold steady for as long as possible without strain."
           ],
           "prompt": "Fitness portrait photograph of a single determined individual holding a wall sit at a perfect 90-degree angle against a clean wall, core engaged, stopwatch ticking, high-contrast lighting",
-          "imageUrl": "assets/images/wall-sit.png"
+          "imageUrl": "https://pub-a4d912b58e514ce086aba82f37279862.r2.dev/tasks/wall-sit.png"
         }
       ]
     },
@@ -109,7 +109,7 @@
             "Notice thoughts drifting by without grabbing onto them."
           ],
           "prompt": "Serene photograph of a single person seated cross-legged with headphones in a quiet corner, eyes closed, gentle ambient light, peaceful expression, minimalist cozy setting",
-          "imageUrl": "assets/images/guided-meditation.png"
+          "imageUrl": "https://pub-a4d912b58e514ce086aba82f37279862.r2.dev/tasks/guided-meditation.png"
         },
         {
           "title": "Gratitude Reflection",
@@ -123,7 +123,7 @@
             "Read the list aloud to reinforce positive emotion."
           ],
           "prompt": "Warm lifestyle photograph of a single person writing gratitude notes in a notebook at a cozy desk, steaming mug nearby, soft fairy lights in the background, uplifting mood",
-          "imageUrl": "assets/images/gratitude-reflection.png"
+          "imageUrl": "https://pub-a4d912b58e514ce086aba82f37279862.r2.dev/tasks/gratitude-reflection.png"
         },
         {
           "title": "Journaling Prompt",
@@ -137,7 +137,7 @@
             "Close with one actionable step for tomorrow."
           ],
           "prompt": "Morning photograph of a single focused individual free-writing in a journal with a timer on the desk, thoughtful expression, sunlit workspace, creative details",
-          "imageUrl": "assets/images/journaling-prompt.png"
+          "imageUrl": "https://pub-a4d912b58e514ce086aba82f37279862.r2.dev/tasks/journaling-prompt.png"
         },
         {
           "title": "Affirmations Session",
@@ -151,7 +151,7 @@
             "Visualize moments where those affirmations are already true."
           ],
           "prompt": "Confidence-boosting portrait photograph of a single person standing tall before a mirror speaking affirmations, modern sunlit apartment backdrop, empowering body language",
-          "imageUrl": "assets/images/affirmations-session.png"
+          "imageUrl": "https://pub-a4d912b58e514ce086aba82f37279862.r2.dev/tasks/affirmations-session.png"
         }
       ]
     },
@@ -172,7 +172,7 @@
             "Exhale slowly for six counts."
           ],
           "prompt": "Close-up lifestyle photograph of a single individual sitting on a cushion practicing slow calm breathing, eyes closed, gentle window light, serene expression, soothing ambiance",
-          "imageUrl": "assets/images/2-minute-calm-breathing.png"
+          "imageUrl": "https://pub-a4d912b58e514ce086aba82f37279862.r2.dev/tasks/2-minute-calm-breathing.png"
         },
         {
           "title": "Box Breathing",
@@ -186,7 +186,7 @@
             "Exhale for four counts, then hold again."
           ],
           "prompt": "Focused photograph of a single person seated upright practicing box breathing in a minimalist studio, soft square light accent in the background hinting at the inhale-hold-exhale pattern, cool calming tones",
-          "imageUrl": "assets/images/box-breathing.png"
+          "imageUrl": "https://pub-a4d912b58e514ce086aba82f37279862.r2.dev/tasks/box-breathing.png"
         },
         {
           "title": "Alternate Nostril Breath",
@@ -200,7 +200,7 @@
             "Repeat, alternating sides with each breath."
           ],
           "prompt": "Realistic yoga photograph of a single peaceful person seated in lotus pose using one hand to alternate nostrils while breathing, soft teal background, balanced composition",
-          "imageUrl": "assets/images/alternate-nostril-breath.png"
+          "imageUrl": "https://pub-a4d912b58e514ce086aba82f37279862.r2.dev/tasks/alternate-nostril-breath.png"
         },
         {
           "title": "Energy Reset Breath",
@@ -214,7 +214,7 @@
             "Slowly return to normal breathing for the final 30 seconds."
           ],
           "prompt": "Dynamic fitness photograph of a single person taking quick energized breaths with an upright spine, slight motion blur, bold warm lighting, intense focus",
-          "imageUrl": "assets/images/energy-reset-breath.png"
+          "imageUrl": "https://pub-a4d912b58e514ce086aba82f37279862.r2.dev/tasks/energy-reset-breath.png"
         },
         {
           "title": "Sleep Wind-Down",
@@ -228,7 +228,7 @@
             "Let your eyelids grow heavier with each cycle."
           ],
           "prompt": "Cozy nighttime photograph of a single person reclining on a plush bed in dim lamplight, practicing slow breathing, dreamy blue and purple tones, deeply restful mood",
-          "imageUrl": "assets/images/sleep-wind-down.png"
+          "imageUrl": "https://pub-a4d912b58e514ce086aba82f37279862.r2.dev/tasks/sleep-wind-down.png"
         }
       ]
     }
