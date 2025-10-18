@@ -11,7 +11,7 @@
           "subtitle": "5 min · Fitness",
           "durationMinutes": 5,
           "iconName": "workout",
-          "musicUrl": "assets/music/yoga.mp3",
+          "musicUrl": "assets/music/quick-workout.mp3",
           "instructions": [
             "Warm up with jumping jacks for 60 seconds.",
             "Alternate squats and lunges for 3 minutes.",
@@ -25,7 +25,7 @@
           "subtitle": "3 min · Strength",
           "durationMinutes": 3,
           "iconName": "workout",
-          "musicUrl": "assets/music/yoga.mp3",
+          "musicUrl": "assets/music/push-up-challenge.mp3",
           "instructions": [
             "Perform slow push-ups with proper form.",
             "Rest for 10 seconds between sets.",
@@ -39,7 +39,7 @@
           "subtitle": "4 min · Relaxation",
           "durationMinutes": 4,
           "iconName": "workout",
-          "musicUrl": "assets/music/yoga.mp3",
+          "musicUrl": "assets/music/stretch-reset.mp3",
           "instructions": [
             "Roll shoulders back for 30 seconds.",
             "Stretch neck side-to-side for 1 minute.",
@@ -53,7 +53,7 @@
           "subtitle": "2 min · Refresh",
           "durationMinutes": 2,
           "iconName": "workout",
-          "musicUrl": "assets/music/yoga.mp3",
+          "musicUrl": "assets/music/cold-splash.mp3",
           "instructions": [
             "Splash your face with cold water for 30 seconds.",
             "Switch to wrists and neck to awaken senses.",
@@ -67,7 +67,7 @@
           "subtitle": "10 min · Mindful movement",
           "durationMinutes": 10,
           "iconName": "workout",
-          "musicUrl": "assets/music/yoga.mp3",
+          "musicUrl": "assets/music/walk-break.mp3",
           "instructions": [
             "Step outside and set an easy walking pace.",
             "Match steps with breathing—four counts in, four counts out.",
@@ -81,7 +81,7 @@
           "subtitle": "1–2 min · Discipline",
           "durationMinutes": 2,
           "iconName": "workout",
-          "musicUrl": "assets/music/yoga.mp3",
+          "musicUrl": "assets/music/wall-sit.mp3",
           "instructions": [
             "Slide down a wall until knees form a 90° angle.",
             "Engage your core and keep your back flat.",
@@ -102,7 +102,7 @@
           "subtitle": "10 min · Calm",
           "durationMinutes": 10,
           "iconName": "meditation",
-          "musicUrl": "assets/music/yoga.mp3",
+          "musicUrl": "assets/music/guided-meditation.mp3",
           "instructions": [
             "Find a quiet spot and sit comfortably.",
             "Close your eyes and follow a guided meditation.",
@@ -116,7 +116,7 @@
           "subtitle": "5 min · Positive thinking",
           "durationMinutes": 5,
           "iconName": "meditation",
-          "musicUrl": "assets/music/yoga.mp3",
+          "musicUrl": "assets/music/gratitude-reflection.mp3",
           "instructions": [
             "Write down three things you appreciate today.",
             "Describe why each item matters to you.",
@@ -130,7 +130,7 @@
           "subtitle": "8 min · Clarity",
           "durationMinutes": 8,
           "iconName": "meditation",
-          "musicUrl": "assets/music/yoga.mp3",
+          "musicUrl": "assets/music/journaling-prompt.mp3",
           "instructions": [
             "Set a timer and free-write without editing.",
             "Answer: “What made you proud this week?”",
@@ -144,7 +144,7 @@
           "subtitle": "3 min · Confidence",
           "durationMinutes": 3,
           "iconName": "meditation",
-          "musicUrl": "assets/music/yoga.mp3",
+          "musicUrl": "assets/music/affirmations-session.mp3",
           "instructions": [
             "Stand tall and breathe deeply.",
             "Repeat three personalized affirmations aloud.",
@@ -165,7 +165,7 @@
           "subtitle": "Easy",
           "durationMinutes": 2,
           "iconName": "meditation",
-          "musicUrl": "assets/music/yoga.mp3",
+          "musicUrl": "assets/music/2-minute-calm-breathing.mp3",
           "instructions": [
             "Inhale for a count of four.",
             "Hold gently for two counts.",
@@ -179,7 +179,7 @@
           "subtitle": "4 min · Focus",
           "durationMinutes": 4,
           "iconName": "meditation",
-          "musicUrl": "assets/music/yoga.mp3",
+          "musicUrl": "assets/music/box-breathing.mp3",
           "instructions": [
             "Inhale for four counts.",
             "Hold for four counts.",
@@ -193,7 +193,7 @@
           "subtitle": "5 min · Balance",
           "durationMinutes": 5,
           "iconName": "meditation",
-          "musicUrl": "assets/music/yoga.mp3",
+          "musicUrl": "assets/music/alternate-nostril-breath.mp3",
           "instructions": [
             "Close your right nostril and inhale through the left.",
             "Switch nostrils and exhale slowly.",
@@ -207,7 +207,7 @@
           "subtitle": "3 min · Activation",
           "durationMinutes": 3,
           "iconName": "meditation",
-          "musicUrl": "assets/music/yoga.mp3",
+          "musicUrl": "assets/music/energy-reset-breath.mp3",
           "instructions": [
             "Take quick inhales and powerful exhales.",
             "Keep your spine tall to move energy upward.",
@@ -221,7 +221,7 @@
           "subtitle": "6 min · Relaxation",
           "durationMinutes": 6,
           "iconName": "meditation",
-          "musicUrl": "assets/music/yoga.mp3",
+          "musicUrl": "assets/music/sleep-wind-down.mp3",
           "instructions": [
             "Lie down or recline somewhere comfortable.",
             "Breath in for four counts, out for six counts.",
